@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,KB/sec
-RESTService_SpringBoot_Test_Simple_Hello,966434,2,3,4,4,6,0,83,0.00%,8038.9,1508.8
-TOTAL,966435,2,3,4,4,6,0,83,0.00%,.0,.0
